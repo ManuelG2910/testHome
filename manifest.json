@@ -1,0 +1,10 @@
+{
+  "domain": "appToTry",
+  "name": "App-To-Try component",
+  "requirements": ["lxml==4.9.1", "beautifulsoup4==4.11.1"],
+  "dependencies": [],
+  "config_flow": false,
+  "version": "6.5.0",
+  "codeowners": ["@danieldotnl"],
+  "iot_class": "local_polling"
+}
